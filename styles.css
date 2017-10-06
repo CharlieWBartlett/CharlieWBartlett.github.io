@@ -1,0 +1,27 @@
+.profile-pic {
+	width: 100%;
+}
+.fa-instagram {
+	color: Green;
+}
+.fa-gg-circle {
+	color: Black;
+}
+.fa-instagram {
+	color: hotpink;
+}
+.card-footer {
+	background-color: silver;
+}
+.card {
+	background-image: url("imgs/spray.jpg")
+}
+.card-title {
+	text-align: center;
+}
+.card-footer {
+	padding-bottom: 0%;
+}
+.btn2 {
+	background-color:#007B76;
+}
